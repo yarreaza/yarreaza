@@ -21,5 +21,11 @@ En el último año y medio, he reforzado mis conocimientos en el ámbito del **`
 
 Además, en el ámbito de la automatización de pruebas, he utilizado **`Cypress`** y **`Playwright`**, empleando **`JavaScript`** para las validaciones en los scripts de pruebas y **`Gherkin`** (**`Cucumber`**) para escribir los casos de prueba. El patrón de diseño que he adoptado para estructurar los scripts de pruebas ha sido **`Page Object Model`** (POM).
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarreaza&layout=compact)
+
 ¡Gracias por visitar mi perfil! 😊
+
+
+
 
