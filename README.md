@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola, soy Yelitza Arreaza! 👋
+## ¡Bienvenido a mi perfil de GitHub! 👋 
 
-¡Bienvenido a mi perfil de GitHub! 👋 Soy Ing. en Informática, ejerciendo mi carrera desde hace varios años como Programadora Web y, desde hace un tiempo, enfocada en el mundo de QA, en el que ya acumulo más de dos años de experiencia.
+Mi nombre es Yelitza Arreaza, soy Ingeniero en Informática ejerciendo mi carrera desde hace varios años como **`Programadora Web`** y, desde hace un tiempo, enfocada en el mundo de **`QA`**, en el que ya acumulo más de dos años de experiencia.
 
 En el último año y medio, he reforzado mis conocimientos en el ámbito del **`Control de Calidad de Software`**. He tomado como base la documentación del **`ISTQB`**, complementándola con cursos teóricos y prácticos en los que se abordaron aspectos esenciales como la identificación de historias de usuario, casos de prueba, planificación y procesos de pruebas, así como tipos y niveles de prueba. También he mejorado habilidades en el uso de herramientas como **`TestLink`** y **`X-Ray`** para la gestión integral de pruebas, **`Jira`** para la gestión de tareas y fallos, además de **`Mantis`**, que sirve específicamente para la gestión de fallos.
 
